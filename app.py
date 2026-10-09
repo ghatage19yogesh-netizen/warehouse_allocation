@@ -187,7 +187,5 @@ with tab_about:
 
 **Who it's for:** Maria, an allocation planner who runs the plan monthly and needs a clear
 summary and a short list of problems, without reading log files.
-
-
 """
     )
